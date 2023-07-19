@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sazk07
 - 👀 I’m interested in ... Data Science and developing small apps that automate my work
-- 🌱 I’m currently learning ... Python, Go, Data Science tools and techniques
+- 🌱 I’m currently learning ... Python, JS, Data Science tools and techniques
 - 📫 How to reach me ... shahan@gmail.com
 
 <!---
